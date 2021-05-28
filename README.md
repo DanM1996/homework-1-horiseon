@@ -1,6 +1,6 @@
-# Code Refactor Starter Code
+# Homework 1: Horiseon
 ## Purpose
-First coding assingment to test web accessability
+Fixing up the HTML elements so ts both web accessible and not a mess of code, while also consolidating CSS elements
 
 ## Built With
 * HTML
