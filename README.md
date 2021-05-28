@@ -9,5 +9,5 @@ First coding assingment to test web accessability
 ## Website
 https://danm1996.github.io/homework-1-horiseon/
 
-##Contribution
+## Contribution
 Made with ❤️ by Dan Martinez
